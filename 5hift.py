@@ -9,14 +9,17 @@ from PIL import Image, ImageTk
 
 # Files to recolor by keywords
 TARGET_KEYWORDS = [
-    "diamond_sword",
-    "diamond_helmet",
-    "diamond_chestplate",
-    "diamond_leggings",
-    "diamond_boots",
-    "diamond_pickaxe",
-    "diamond_axe",
-    "diamond_shovel",
+    "netherite_sword",
+    "netherite_helmet",
+    "netherite_chestplate",
+    "netherite_leggings",
+    "netherite_boots",
+    "netherite_pickaxe",
+    "netherite_axe",
+    "golden_apple",
+    "enchanted_golden_apple",
+    "netherite_shovel",
+    "netherite_shovel",
     "fire_0",
     "fire_1",
 ]
